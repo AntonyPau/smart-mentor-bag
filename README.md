@@ -35,8 +35,6 @@ A brief description of what your project does. (e.g., A web application that hel
 
 5. Start the server:
    `npm start`
-   
-   ## Author
 - **Antony Paul** - [https://github.com/AntonyPau]
 
 ## Author
